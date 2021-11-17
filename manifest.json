@@ -1,0 +1,26 @@
+{
+  "name": "Frank的日记本",
+  "description": "To create daily record automatically",
+  "version": "1.1",
+  "manifest_version": 3,
+  "permissions": [
+    "activeTab",
+    "bookmarks"
+  ],
+  "action": {
+    "default_title": "Frank的日记本",
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon.png",
+      "32": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  },
+  "icons": {
+    "16": "icon.png",
+    "32": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}
